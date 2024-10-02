@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#c{
+    background: url('./images/space_stars_bg.jpg') no-repeat center center;
+    background-size: cover;
+}
